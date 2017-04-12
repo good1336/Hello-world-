@@ -1,0 +1,8 @@
+this is my first git test.
+
+bababaababbbbalalalabalala
+zaizhelixiedaimahaode ma 
+function(){
+  var a=document.getElementById()
+ i come here just for git bash ui text editing test,nothing more to be done.
+ so how can we talk about each other now;

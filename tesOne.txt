@@ -1,4 +1,4 @@
-this is my first git test
+sdjshdjthis is my first git testkkkkkj
 
 bababaababbbbalalalabalala
 zaizhelixiedaimahaode ma 
@@ -6,5 +6,5 @@ function(){
   var a=document.getElementById()
  adsdsdssd come here just for git bash ui text editing test,nothing more to be done.
 
- wo kao zhe wenben bianji qi zhen nanyong genbenbuhuiyong;
+ wo kao zhe wenben bianji qi zhen nanyong genbenbuhuiyong;dsduauaidaiuadaidaiddjhvjhcjcjawjdiddj
 
